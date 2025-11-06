@@ -98,12 +98,7 @@ We used a **deep learning (LSTM)** model trained on the **Time Series 60-Min Hou
 
 ---
 
-## 👩‍💻 Team
 
-- **Varshaswi Bheemvamshi** – Project Lead  
-- Guided by **Faculty, Woxsen University**
-
----
 
 ## 📎 References
 
